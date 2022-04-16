@@ -1,0 +1,15 @@
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\bin\Debug\net6.0\ConsoleApp2MD.exe
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\bin\Debug\net6.0\ConsoleApp2MD.deps.json
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\bin\Debug\net6.0\ConsoleApp2MD.runtimeconfig.json
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\bin\Debug\net6.0\ConsoleApp2MD.dll
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\bin\Debug\net6.0\ConsoleApp2MD.pdb
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\ConsoleApp2MD.csproj.AssemblyReference.cache
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\ConsoleApp2MD.GeneratedMSBuildEditorConfig.editorconfig
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\ConsoleApp2MD.AssemblyInfoInputs.cache
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\ConsoleApp2MD.AssemblyInfo.cs
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\ConsoleApp2MD.csproj.CoreCompileInputs.cache
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\ConsoleApp2MD.dll
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\refint\ConsoleApp2MD.dll
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\ConsoleApp2MD.pdb
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\ConsoleApp2MD.genruntimeconfig.cache
+D:\LU Studies\Repo\NVLU2MD\ConsoleApp2MD\ConsoleApp2MD\obj\Debug\net6.0\ref\ConsoleApp2MD.dll
