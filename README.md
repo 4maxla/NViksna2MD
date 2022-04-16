@@ -1,2 +1,2 @@
 # NViksna2MD
-Otrais mājas darbs C# studiju programmā
+Otrais mājasdarbs C# studiju programmā
